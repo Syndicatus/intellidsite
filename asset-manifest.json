@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/intellidsite/static/css/main.729137e5.css",
+    "main.js": "/intellidsite/static/js/main.ce2873c5.js",
+    "static/js/787.1e3da93c.chunk.js": "/intellidsite/static/js/787.1e3da93c.chunk.js",
+    "static/media/logo.svg": "/intellidsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/intellidsite/index.html",
+    "main.729137e5.css.map": "/intellidsite/static/css/main.729137e5.css.map",
+    "main.ce2873c5.js.map": "/intellidsite/static/js/main.ce2873c5.js.map",
+    "787.1e3da93c.chunk.js.map": "/intellidsite/static/js/787.1e3da93c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.729137e5.css",
+    "static/js/main.ce2873c5.js"
+  ]
+}
